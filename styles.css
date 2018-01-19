@@ -1,0 +1,17 @@
+svg {
+  margin-bottom: 30px;
+}
+
+.axis path,
+.tick line {
+  stroke: #c9c9c9;
+}
+
+.tick text {
+  fill: #c9c9c9;
+}
+
+.idyll-dynamic {
+  padding: 10px;
+  color: aqua;
+}

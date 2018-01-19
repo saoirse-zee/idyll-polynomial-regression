@@ -1,0 +1,8 @@
+# Polynomial regression
+
+[var name:"y" value:2.5 /]
+
+[Line y:y /]
+
+Aqualine:
+[Dynamic value:y min:0 max:5 interval:0.1 /]
